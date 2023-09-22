@@ -100,8 +100,8 @@ const sendEmail = (e) => {
   // emailjs.sendForm(serviceID, templateID, templateParams, publicKey);
   emailjs
     .sendForm(
-      "service_62chxte",
-      "template_uwjn2pn",
+      "service_y2l6wys",
+      "template_vg9r6ld",
       "#contact-form",
       "Tsj0IYpPfm7QRYrya"
     )
